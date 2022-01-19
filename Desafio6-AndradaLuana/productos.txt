@@ -1,0 +1,17 @@
+[
+{
+    "title": "escuadra",
+    "price": 1254,
+    "id": 2
+},
+{
+    "title": "goma",
+    "price": 54,
+    "id": 3
+},
+{
+    "title": "lapiz",
+    "price": 14,
+    "id": 4
+}
+]
